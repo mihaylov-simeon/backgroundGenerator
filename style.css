@@ -1,11 +1,8 @@
 body {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	text-align: center;
+	
 	font: "Century Gothic", sans-serif;
 	color: rgba(0, 0, 0, .5);
+	text-align: center;
 	text-transform: uppercase;
 	letter-spacing: .5em;
 	top: 15%;
